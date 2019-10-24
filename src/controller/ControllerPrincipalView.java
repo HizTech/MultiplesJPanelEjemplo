@@ -77,7 +77,7 @@ public class ControllerPrincipalView implements ActionListener{
     
     
     /**
-     * metodo para mostrar o ocultar las vistas del HC dependiendo el primer ITEM de la lista (listHC) deshabilitamos y habilitamos botones segun correspondan.
+     * metodo para mostrar o ocultar los respectivos paneles agregados al contenedor principal.
      */    
     private void chageViewHC(int btn){
         
